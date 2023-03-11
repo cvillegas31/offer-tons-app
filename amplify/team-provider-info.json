@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify5b0dacebd9254-staging-175927-authRole",
+      "UnauthRoleArn": "arn:aws:iam::961692862739:role/amplify-amplify5b0dacebd9254-staging-175927-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::961692862739:role/amplify-amplify5b0dacebd9254-staging-175927-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-amplify5b0dacebd9254-staging-175927-deployment",
+      "UnauthRoleName": "amplify-amplify5b0dacebd9254-staging-175927-unauthRole",
+      "StackName": "amplify-amplify5b0dacebd9254-staging-175927",
+      "StackId": "arn:aws:cloudformation:eu-west-2:961692862739:stack/amplify-amplify5b0dacebd9254-staging-175927/772b8060-c036-11ed-92c1-02469588704a",
+      "AmplifyAppId": "d9wkts9tfzv41"
+    },
+    "categories": {
+      "auth": {
+        "offertonsapp0404a2fb": {}
+      }
+    }
+  }
+}
