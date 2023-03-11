@@ -5,6 +5,7 @@ import config from './aws-exports';
 Amplify.configure(config);
 
 
+
 const App = () => {
   const [stream, setStream] = useState(null);
   const videoRef = useRef(null);
